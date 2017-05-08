@@ -1,0 +1,20 @@
+<div class='product-container'>
+  <div class='product' ng-repeat='product in productData'>
+
+    <div class='phone-title-container' >
+      <h4 class='phone-title'>{{product.model}}</h4>
+    </div>
+
+    <div class='text-seperator'></div>
+
+    <div class="phone-img-container secondary">
+      <img class='phone-image' ng-src="{{product.modelPhoto}}" alt="">
+    </div>
+
+    <div class='pricing-container'>
+      <p class='pricing-text'>{{product.singlePrice}}</p>
+      <p class='pricing-text'>{{product.bundlePrice}}</p>
+    </div>
+
+  </div>
+</div>

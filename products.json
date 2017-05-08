@@ -1,0 +1,73 @@
+[
+
+{
+  "model": "iPhone 5",
+  "singlePrice": "Fix: $35",
+  "bundlePrice": "Screen bundle: $70",
+  "modelPhoto": "./img/iphone5.png"
+},
+
+{
+  "model": "iPhone 5s",
+  "singlePrice": "Fix: $40",
+  "bundlePrice": "Screen bundle: $75",
+  "modelPhoto": "./img/iphone5.png"
+},
+
+{
+  "model": "iPhone 6",
+  "singlePrice": "Fix: $50",
+  "bundlePrice": "Screen bundle: $80",
+  "modelPhoto": "./img/iphone6.png"
+},
+
+{
+  "model": "iPhone 6 plus",
+  "singlePrice": "Fix: $50",
+  "bundlePrice": "Screen bundle: $80",
+  "modelPhoto": "./img/iphone6.png"
+},
+
+{
+  "model": "iPhone 6s",
+  "singlePrice": "Fix: $50",
+  "bundlePrice": "Screen bundle: $80",
+  "modelPhoto": "./img/iphone6.png"
+},
+
+{
+  "model": "iPhone 6s plus",
+  "singlePrice": "Fix: $50",
+  "bundlePrice": "Screen bundle: $80",
+  "modelPhoto": "./img/iphone6.png"
+},
+
+{
+  "model": "iPhone 7",
+  "singlePrice": "Fix: $50",
+  "bundlePrice": "Screen bundle: $80",
+  "modelPhoto": "./img/iphone7.png"
+},
+
+{
+  "model": "iPhone 7 plus",
+  "singlePrice": "Fix: $50",
+  "bundlePrice": "Screen bundle: $80",
+  "modelPhoto": "./img/iphone7.png"
+},
+
+{
+  "model": "iPhone 7s",
+  "singlePrice": "Fix: $50",
+  "bundlePrice": "Screen bundle: $80",
+  "modelPhoto": "./img/iphone7.png"
+},
+
+{
+  "model": "iPhone 7s plus",
+  "singlePrice": "Fix: $50",
+  "bundlePrice": "Screen bundle: $80",
+  "modelPhoto": "./img/iphone7.png"
+}
+
+]
